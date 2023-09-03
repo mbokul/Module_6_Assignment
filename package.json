@@ -1,0 +1,17 @@
+{
+  "name": "module_6_assignment",
+  "version": "1.0.0",
+  "description": "Mern Stack -> Module 6 Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "assignment"
+  ],
+  "author": "Mohammad Bokul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
